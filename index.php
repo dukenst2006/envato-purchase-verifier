@@ -14,6 +14,7 @@ if(!isset($_SESSION['UserData']['Username'])){
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="Shameem Reza">
 <title>Envato Purchase Verifier</title>
 
 <!-- Bootstrap -->
@@ -130,7 +131,7 @@ $('#btn_check_pc').click(function() {
                 $("#support_end").html('');
                 $('#result').css("display","none");
                 $("#btn_check_pc").html('Check Now');
-                $("#error").html('<div class="alert alert-danger"><strong>Aish!</strong> Item purchase code is not valid.Or Internet connection is not working.</div>');
+                $("#error").html('<div class="alert alert-danger"><strong>Aish!</strong> This Item purchase code is not valid.Or Internet connection is not working.</div>');
               }
                          
         }
