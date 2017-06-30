@@ -6,6 +6,8 @@ As I amm also a seller in Envato market and facing this problem, I developed an 
 
 Developed by: [Shameem Reza](https://shameem.me/), Software Developer @ Toptal LLC.
 
+### Core Funcction: ###
+
 * Get buyer name.
 * Get buyer item ID.
 * Get Item Name.
@@ -13,14 +15,14 @@ Developed by: [Shameem Reza](https://shameem.me/), Software Developer @ Toptal L
 * Purchase Date.
 * Support Ending Date
 
-###User functions:
+### User functions: ###
 
 * Ajax Submit
 * Instant Search Result
 * No Installation Required
 * No Database Required
 
-###Supports:
+### Supports: ###
 
 * Codecanyon
 * Themeforest
