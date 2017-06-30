@@ -6,6 +6,30 @@ As I amm also a seller in Envato market and facing this problem, I developed an 
 
 Developed by: [Shameem Reza](https://shameem.me/), Software Developer @ Toptal LLC.
 
+* Get buyer name.
+* Get buyer item ID.
+* Get Item Name.
+* Get License Information
+* Purchase Date.
+* Support Ending Date
+
+###User functions:
+
+* Ajax Submit
+* Instant Search Result
+* No Installation Required
+* No Database Required
+
+###Supports:
+
+* Codecanyon
+* Themeforest
+* Audiojungle
+* Videohive
+* Graphicsriver
+* Photodune
+* 3dcean
+
 ## Credits and collaboration ##
 
 * [Bootstrap](http://getbootstrap.com)
