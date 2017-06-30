@@ -1,5 +1,5 @@
-<?php session_start(); /* Starts the session */
-session_destroy(); /* Destroy started session */
+<?php session_start(); /* Starts the sessions */
+session_destroy(); /* Destroy started sessions */
 header("location:login.php");
 exit;
 ?>
