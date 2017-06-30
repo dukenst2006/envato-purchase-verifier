@@ -1,4 +1,5 @@
 <?php
+//Dont touch here
 include('config.php');
 		$response = array();		
 		$code		=	$_POST["purchase_code"];
