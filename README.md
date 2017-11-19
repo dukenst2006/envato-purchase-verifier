@@ -2,7 +2,7 @@
 
 Envato Purchase Verifier is a simple, easy-to-use PHP script to check item purchase code powered by Ajax. If you are a seller on Envato market, then you probably know the pain. Lot of people are sharing premium items for free and some idiot ask help or updates file by providing fake item purchase code. Most of the times, we think that he or she providng real code, because we dont have proper solution to check that items.
 
-As I amm also a seller in Envato market and facing this problem, I developed an Ajax based PHP script to check purchase code very fast. Hope it will be very helpfull to others seller as well.
+As I am also a seller in Envato market and facing this problem, I developed an Ajax based PHP script to check purchase code very fast. Hope it will be very helpfull to others seller as well.
 
 Developed by: [Shameem Reza](https://shameem.me/), Software Developer @ Toptal LLC.
 
